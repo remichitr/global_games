@@ -1,0 +1,20 @@
+[
+  {
+    "id": "com.rockstargames.bully",
+    "name": "Bully Anniversary Edition",
+    "version": "1.4.299",
+    "tags": "Aksiyon, RPG",
+    "icon": "https://www.turkmmo.com/wp-content/uploads/2022/01/Bully-Sistem-Gereksinimleri-Neler-Bully-2-Cikacak-Mi.jpg",
+    "shortdescription": "🎮 Bully: Anniversary Edition – Tamamen Türkçe, 30-60 FPS seçenekli!",
+"longdescription": "Rockstar Games’in klasik yapımı Bully: Anniversary Edition, Türk oyuncular için özel olarak optimize edildi. Bu sürüm, %100 Türkçe dil desteği, FPS (30/60) seçenekleri ve geliştirilmiş başlangıç avantajlarıyla geliyor.\n\nÖne Çıkan Özellikler:\n- Tamamen Türkçeye çevrilmiş oyun içeriği (diyaloglar, görevler, menüler ve sahneler)\n- 30 FPS ve 60 FPS arasında geçiş yapma imkanı\n  ⚠️ Bazı görevlerde hatasız oynanış için 30 FPS önerilir\n- Oyun başlangıcında belirli miktarda para avantajı\n- Android 6.0 ve üzeri cihazlarla uyumlu\n- Hızlı ve kolay yama kurulumu\n\nGereksinimler: Android 6.0 veya üzeri\nNot: Bu içerik yalnızca Bully: Anniversary Edition Android sürümü için geliştirilmiştir. Farklı sürümlerle uyumlu olmayabilir.\n\nÇeviri ve teknik geliştirmeler: Remi",
+    "translator": "Remi",
+    "downloadUrl": "https://example.com/downloads/spacewar.apk",
+    "image1": "https://image.winudf.com/v2/image/Z3VpZGV0aXBzLmJ1bGx5LmJ1bGx5YW5uaXZlcnNhcnlfc2NyZWVuXzJfMTUyMzIyMzg0M18wODQ/screen-2.jpg?fakeurl=1&type=.jpg",
+    "image2": "https://2.bp.blogspot.com/-Bq9I7D8NXAE/W2QS51Ing6I/AAAAAAAAAT8/a4IZvRWlfIsaR8ZmC5aJmiIRJvd6FXpJgCLcBGAs/s1600/Screenshot_2016-12-14-17-19-59.png",
+    "image3": "https://1.bp.blogspot.com/-uK_oA3-bxEU/WFIdeu14UpI/AAAAAAAAALQ/5oliiKvTOXQ19UYdn7gE2Resgk6iKjR5ACLcB/s1600/Screenshot_2016-12-15-11-16-53-433_com.rockstargames.bully.png",
+    "image4": "https://rockstargame.su/wp-content/uploads/2017/11/bully-android.png",
+    "image5": "https://2.bp.blogspot.com/-qeZuFXwPvzU/W8V3dN1QLCI/AAAAAAAABoQ/d1QGsu0xBYkb4fzXiP36mC6jE6PGrwKWgCLcBGAs/s1600/Screenshot_2018-10-16-07-55-23-242_com.rockstargames.bully.png",
+    "coin": "50",
+    "size": "2,8G"
+  }
+  ]
