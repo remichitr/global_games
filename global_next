@@ -18,6 +18,16 @@
   "totalFile": "100",
   "isExpanded": "false",
   "extra": ""
+  },
+{
+  "id": "com.telltalegames.walkingdead100",
+  "name": "The Walking Dead S1",
+  "icon": "https://ipaomtk.com/wp-content/uploads/2024/03/Walking-Dead-The-Game.jpg",
+  "translator": "miHoYo",
+  "translatedFile": "100",
+  "totalFile": "100",
+  "isExpanded": "false",
+  "extra": ""
 }
 
   ]
