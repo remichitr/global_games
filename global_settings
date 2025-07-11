@@ -1,7 +1,9 @@
 [
   {
-    "fileNum": "2",
-    "name": "Bully"
+    "file_number": "2",
+    "under_edit": false,
+    "version": "1.0",
+    "new_link" ""
   },
 {
     "fileNum": 1,
