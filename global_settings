@@ -1,12 +1,14 @@
 [
   {
     "file_number": 2,
+    "will_edit": true,
     "under_edit": true,
     "version": "1.0",
     "new_link": "deneme"
   },
   {
     "file_number": "2",
+    "will_edit": true,
     "under_edit": false,
     "version": "1.0",
     "new_link": "deneme"
