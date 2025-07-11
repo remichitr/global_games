@@ -1,7 +1,7 @@
 [
   {
-    "file_number": "2",
-    "under_edit": false,
+    "file_number": 2,
+    "under_edit": true,
     "version": "1.0",
     "new_link": "deneme"
   },
