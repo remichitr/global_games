@@ -1,13 +1,14 @@
 [
   {
     "file_number": "2",
-    "name": "bully"
+    "under_edit": false,
+    "version": "1.0",
+    "new_link": "deneme"
   },
-{
+  {
     "file_number": "2",
     "under_edit": false,
     "version": "1.0",
-    "new_link" "deneme"
+    "new_link": "deneme"
   }
-
-  ]
+]
